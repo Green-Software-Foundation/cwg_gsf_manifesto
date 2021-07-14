@@ -1,0 +1,1 @@
+# cwg_gsf_manifesto
