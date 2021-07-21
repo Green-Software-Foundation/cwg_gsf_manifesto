@@ -1,6 +1,7 @@
 # GSF Manifesto
 
 ## Scope
+
 >“The Green Software Foundation’s Manifesto”, is the public facing declaration of the policy and aims of the Foundation. It describes the set of core values of the Foundation and how we operationalise those values. It is used to both inform and guide the decisions and behaviours of the people inside the Foundation and signal to external stakeholders what's important to the Foundation.
 
 This document lists the values of the Foundation. Each value has a one-sentence title, a description and some examples for how to operationalise that value.
